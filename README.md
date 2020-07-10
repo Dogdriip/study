@@ -44,11 +44,11 @@
 | CLTR017 | Practical Classical Chinese | 3 |
 
 ### 2019-2
-| Class code | Course name | Credits |
-| --- | --- | :---: |
-| CLTR614 | To Learn the Nature of Dokdo | 3 |
-| COME311 | Probability & Statistics | 3 |
-| COMP224 | Software Design | 3 |
-| COMP411 | Computer Architectures | 3 |
-| ELEC462 | System Programming | 3 |
-| ITEC423 | Data Structure Programming | 3 |
+| Class code | Course name | Credits | Ref | 
+| --- | --- | :---: | --- |
+| CLTR614 | To Learn the Nature of Dokdo | 3 | | 
+| COME311 | Probability & Statistics | 3 | | 
+| COMP224 | Software Design | 3 | |
+| COMP411 | Computer Architectures | 3 | [#](2019-2_COMP411) |
+| ELEC462 | System Programming | 3 | |
+| ITEC423 | Data Structure Programming | 3 | |
