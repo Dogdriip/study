@@ -1,1 +1,3 @@
-COMP411 컴퓨터구조
+| Class code | Course name | Credits |
+| --- | --- | :---: |
+| COMP411 | Computer Architectures | 3 |
