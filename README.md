@@ -47,8 +47,8 @@
 | Class code | Course name | Credits | Ref | 
 | --- | --- | :---: | :---: |
 | CLTR614 | To Learn the Nature of Dokdo | 3 | | 
-| COME311 | Probability & Statistics | 3 | [#](2019-2_COME311) | 
+| COME311 | Probability & Statistics | 3 | [#](20192_COME311) | 
 | COMP224 | Software Design | 3 | |
-| COMP411 | Computer Architectures | 3 | [#](2019-2_COMP411) |
-| ELEC462 | System Programming | 3 | [#](2019-2_ELEC462) |
+| COMP411 | Computer Architectures | 3 | [#](20192_COMP411) |
+| ELEC462 | System Programming | 3 | [#](20192_ELEC462) |
 | ITEC423 | Data Structure Programming | 3 | |

@@ -1,1 +1,4 @@
-COME331	자료구조 + COMP216 자료구조응용
+| Class code | Course name | Credits |
+| --- | --- | :---: |
+| COME331 | Data Structure | 3 |
+| COMP216 | Data Structure Applications | 3 |

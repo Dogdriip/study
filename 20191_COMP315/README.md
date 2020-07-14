@@ -1,1 +1,3 @@
-COMP315 오토마타및형식언어
+| Class code | Course name | Credits |
+| --- | --- | :---: |
+| COMP315 | Automata and Formal Language | 3 |

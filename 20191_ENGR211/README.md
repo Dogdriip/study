@@ -1,1 +1,3 @@
-ENGR211 공학수학 1
+| Class code | Course name | Credits |
+| --- | --- | :---: |
+| ENGR211 | Engineering Mathematics 1 | 3 |

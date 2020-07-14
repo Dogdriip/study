@@ -1,1 +1,3 @@
-COMP217 자바프로그래밍
+| Class code | Course name | Credits |
+| --- | --- | :---: |
+| COMP217 | Java Programming | 3 | 
