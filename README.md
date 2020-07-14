@@ -28,20 +28,20 @@
 | COMP205 | Creative Engineering Design | 3 |
 
 ### 2019-1
-| Class code | Course name | Credits |
-| --- | --- | :---: |
-| CLTR086 | Entrepreneurship and Venture Creation | 3 |
-| COME331 | Data Structure | 3 |
-| COMP216 | Data Structure Applications | 3 |
-| COMP217 | Java Programming | 3 |
-| COMP315 | Automata and Formal Language | 3 |
-| ELEC247 | Logic Circuits | 3 |
-| ENGR211 | Engineering Mathematics 1 | 3 |
+| Class code | Course name | Credits | Ref | 
+| --- | --- | :---: | :---: |
+| CLTR086 | Entrepreneurship and Venture Creation | 3 | | 
+| COME331 | Data Structure | 3 | [#](20191_COME331+COMP216) | 
+| COMP216 | Data Structure Applications | 3 | [#](20191_COME331+COMP216) | 
+| COMP217 | Java Programming | 3 | [#](20191_COMP217) | 
+| COMP315 | Automata and Formal Language | 3 | [#](20191_COMP315) | 
+| ELEC247 | Logic Circuits | 3 | | 
+| ENGR211 | Engineering Mathematics 1 | 3 | [#](20191_ENGR211) | 
 
 ### 2019-S
-| Class code | Course name | Credits |
-| --- | --- | :---: |
-| CLTR017 | Practical Classical Chinese | 3 |
+| Class code | Course name | Credits | Ref | 
+| --- | --- | :---: | :---: |
+| CLTR017 | Practical Classical Chinese | 3 | | 
 
 ### 2019-2
 | Class code | Course name | Credits | Ref | 
