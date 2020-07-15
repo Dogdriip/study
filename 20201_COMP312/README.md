@@ -1,4 +1,6 @@
-# COMP312 운영체제
+| Class code | Course name | Credits |
+| --- | --- | :---: |
+| COMP312 | Operating Systems | 3 |
 
 ## Project 1
 1. Assignment 0
