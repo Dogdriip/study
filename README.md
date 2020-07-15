@@ -52,3 +52,13 @@
 | COMP411 | Computer Architectures | 3 | [#](20192_COMP411) |
 | ELEC462 | System Programming | 3 | [#](20192_ELEC462) |
 | ITEC423 | Data Structure Programming | 3 | |
+
+### 2020-1
+| Class code | Course name | Credits | Ref | 
+| --- | --- | :---: | :---: |
+| CLTR032 | Japanese Language I	| 3 | |
+| COMP312 | Operating Systems | 3 | |
+| COMP319 | Algorithms 1 | 3 | |
+| COMP414 | Computer Networks | 3 | |
+| EECS312 | Network Programming | 3 | |
+| ITEC401 | Capstone Design Project 1 | 4 | |
