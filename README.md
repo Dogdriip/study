@@ -9,23 +9,23 @@
 ## 이수내역
 
 ### 2018-1
-| Class code | Course name | Credits |
-| --- | --- | :---: |
-| CLTR211 | Calculus I | 3 |
-| CLTR213 | Physics I | 3 |
-| CLTR263 | Introduction to Culture Technology | 3 |
-| COMP208 | Basic Engineering Physics Lab | 3 |
-| COMP209 | Software and Problem Solving | 3 |
-| ITEC201 | Introduction to Computer Science and Engineering | 3 |
+| Class code | Course name | Credits | Ref | 
+| --- | --- | :---: | :---: |
+| CLTR211 | Calculus I | 3 | | 
+| CLTR213 | Physics I | 3 | | 
+| CLTR263 | Introduction to Culture Technology | 3 | | 
+| COMP208 | Basic Engineering Physics Lab | 3 | | 
+| COMP209 | Software and Problem Solving | 3 | [#](20181_COMP209) | 
+| ITEC201 | Introduction to Computer Science and Engineering | 3 | | 
 
 ### 2018-2
-| Class code | Course name | Credits |
-| --- | --- | :---: |
-| CLTR003 | Practical Narrative | 3 |
-| CLTR264 | Social Networks | 3 |
-| COME301 | Discrete Mathematics | 3 |
-| COMP204 | Programming for Beginners | 6 |
-| COMP205 | Creative Engineering Design | 3 |
+| Class code | Course name | Credits | Ref | 
+| --- | --- | :---: | :---: |
+| CLTR003 | Practical Narrative | 3 | | 
+| CLTR264 | Social Networks | 3 | | 
+| COME301 | Discrete Mathematics | 3 | | 
+| COMP204 | Programming for Beginners | 6 | | 
+| COMP205 | Creative Engineering Design | 3 | | 
 
 ### 2019-1
 | Class code | Course name | Credits | Ref | 
