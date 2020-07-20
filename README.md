@@ -35,7 +35,7 @@
 | COMP216 | Data Structure Applications | 3 | [#](20191_COME331+COMP216) | 
 | COMP217 | Java Programming | 3 | [#](20191_COMP217) | 
 | COMP315 | Automata and Formal Language | 3 | [#](20191_COMP315) | 
-| ELEC247 | Logic Circuits | 3 | | 
+| ELEC247 | Logic Circuits | 3 | [#](20191_ELEC247) | 
 | ENGR211 | Engineering Mathematics 1 | 3 | [#](20191_ENGR211) | 
 
 ### 2019-S
