@@ -71,11 +71,11 @@
 
 ### 2020-2
 
-| Class code | Course name               | Credits | Ref |
-| ---------- | ------------------------- | :-----: | :-: |
-| COMP320    | Algorithms 2              |    3    |     |
-| COMP432    | Topics in Software        |    2    |     |
-| ITEC402    | Capstone Design Project 2 |    4    |     |
-| ITEC422    | Health IT Software        |    3    |     |
-| MTED231    | Linear Algebra            |    3    |     |
-| STAT452    | Numerical Analysis        |    3    |     |
+| Class code | Course name               | Credits |        Ref         |
+| ---------- | ------------------------- | :-----: | :----------------: |
+| COMP320    | Algorithms 2              |    3    | [#](20202_COMP320) |
+| COMP432    | Topics in Software        |    2    |                    |
+| ITEC402    | Capstone Design Project 2 |    4    |                    |
+| ITEC422    | Health IT Software        |    3    |                    |
+| MTED231    | Linear Algebra            |    3    |                    |
+| STAT452    | Numerical Analysis        |    3    |                    |
