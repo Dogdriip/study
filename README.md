@@ -77,5 +77,5 @@
 | COMP432    | Topics in Software        |    2    |                    |
 | ITEC402    | Capstone Design Project 2 |    4    |                    |
 | ITEC422    | Health IT Software        |    3    |                    |
-| MTED231    | Linear Algebra            |    3    |                    |
-| STAT452    | Numerical Analysis        |    3    |                    |
+| MTED231    | Linear Algebra            |    3    | [#](20202_MTED231) |
+| STAT452    | Numerical Analysis        |    3    | [#](20202_STAT452) |
