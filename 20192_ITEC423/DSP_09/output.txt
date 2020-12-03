@@ -1,0 +1,48 @@
+Inserting 40
+INORDER: 40(B) 
+PREORDER: 40(B) 
+
+Inserting 50
+INORDER: 40(B) 50(R) 
+PREORDER: 40(B) 50(R) 
+
+Inserting 70
+INORDER: 40(R) 50(B) 70(R) 
+PREORDER: 50(B) 40(R) 70(R) 
+
+Inserting 30
+INORDER: 30(R) 40(B) 50(B) 70(B) 
+PREORDER: 50(B) 40(B) 30(R) 70(B) 
+
+Inserting 42
+INORDER: 30(R) 40(B) 42(R) 50(B) 70(B) 
+PREORDER: 50(B) 40(B) 30(R) 42(R) 70(B) 
+
+Inserting 15
+INORDER: 15(R) 30(B) 40(R) 42(B) 50(B) 70(B) 
+PREORDER: 50(B) 40(R) 30(B) 15(R) 42(B) 70(B) 
+
+Inserting 20
+INORDER: 15(R) 20(B) 30(R) 40(R) 42(B) 50(B) 70(B) 
+PREORDER: 50(B) 40(R) 20(B) 15(R) 30(R) 42(B) 70(B) 
+
+Inserting 25
+INORDER: 15(B) 20(R) 25(R) 30(B) 40(B) 42(B) 50(R) 70(B) 
+PREORDER: 40(B) 20(R) 15(B) 30(B) 25(R) 50(R) 42(B) 70(B) 
+
+Inserting 27
+INORDER: 15(B) 20(R) 25(R) 27(B) 30(R) 40(B) 42(B) 50(R) 70(B) 
+PREORDER: 40(B) 20(R) 15(B) 27(B) 25(R) 30(R) 50(R) 42(B) 70(B) 
+
+Inserting 26
+INORDER: 15(B) 20(B) 25(B) 26(R) 27(R) 30(B) 40(B) 42(B) 50(B) 70(B) 
+PREORDER: 40(B) 20(B) 15(B) 27(R) 25(B) 26(R) 30(B) 50(B) 42(B) 70(B) 
+
+Inserting 60
+INORDER: 15(B) 20(B) 25(B) 26(R) 27(R) 30(B) 40(B) 42(B) 50(B) 60(R) 70(B) 
+PREORDER: 40(B) 20(B) 15(B) 27(R) 25(B) 26(R) 30(B) 50(B) 42(B) 70(B) 60(R) 
+
+Inserting 55
+INORDER: 15(B) 20(B) 25(B) 26(R) 27(R) 30(B) 40(B) 42(B) 50(B) 55(R) 60(B) 70(R) 
+PREORDER: 40(B) 20(B) 15(B) 27(R) 25(B) 26(R) 30(B) 50(B) 42(B) 60(B) 55(R) 70(R) 
+

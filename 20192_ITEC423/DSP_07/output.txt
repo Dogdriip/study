@@ -1,0 +1,37 @@
+Building BHeap of A:
+Inserting 20
+B[0]: 20(0) 
+Inserting 10
+B[1]: 10(1) 20(0) 
+Inserting 5
+B[0]: 5(0) 
+B[1]: 10(1) 20(0) 
+Inserting 18
+B[2]: 5(2) 10(1) 20(0) 18(0) 
+Inserting 6
+B[0]: 6(0) 
+B[2]: 5(2) 10(1) 20(0) 18(0) 
+
+
+Building BHeap of B:
+Inserting 12
+B[0]: 12(0) 
+Inserting 14
+B[1]: 12(1) 14(0) 
+Inserting 4
+B[0]: 4(0) 
+B[1]: 12(1) 14(0) 
+Inserting 22
+B[2]: 4(2) 12(1) 14(0) 22(0) 
+
+
+Merging two BHeaps of A and B:
+B[0]: 6(0) 
+B[3]: 4(3) 5(2) 10(1) 20(0) 18(0) 12(1) 14(0) 22(0) 
+
+
+After deleting two min values:
+B[1]: 6(1) 22(0) 
+B[2]: 10(2) 12(1) 14(0) 20(0) 
+B[0]: 18(0) 
+
