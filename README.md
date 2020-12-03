@@ -56,7 +56,7 @@
 | COMP224    | Software Design              |    3    |                    |
 | COMP411    | Computer Architectures       |    3    | [#](20192_COMP411) |
 | ELEC462    | System Programming           |    3    | [#](20192_ELEC462) |
-| ITEC423    | Data Structure Programming   |    3    |                    |
+| ITEC423    | Data Structure Programming   |    3    | [#](20192_ITEC423) |
 
 ### 2020-1
 
