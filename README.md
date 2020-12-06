@@ -66,7 +66,7 @@
 | COMP312    | Operating Systems         |    3    | [#](20201_COMP312) |
 | COMP319    | Algorithms 1              |    3    | [#](20201_COMP319) |
 | COMP414    | Computer Networks         |    3    | [#](20201_COMP414) |
-| EECS312    | Network Programming       |    3    |                    |
+| EECS312    | Network Programming       |    3    | [#](20201_EECS312) |
 | ITEC401    | Capstone Design Project 1 |    4    |                    |
 
 ### 2020-2
