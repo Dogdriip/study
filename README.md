@@ -62,7 +62,7 @@
 
 | Class code | Course name               | Credits |        Ref         |
 | ---------- | ------------------------- | :-----: | :----------------: |
-| CLTR032    | Japanese Language I       |    3    |                    |
+| CLTR032    | Japanese Language I       |    3    | [#](20201_CLTR032) |
 | COMP312    | Operating Systems         |    3    | [#](20201_COMP312) |
 | COMP319    | Algorithms 1              |    3    | [#](20201_COMP319) |
 | COMP414    | Computer Networks         |    3    |                    |
