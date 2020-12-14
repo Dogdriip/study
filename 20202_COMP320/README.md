@@ -4,7 +4,7 @@
 
 # Algorithms 2
 
-## assignment
+## Assignment
 
 - Assignment_01
   - [FESTIVAL](https://www.algospot.com/judge/problem/read/FESTIVAL)
