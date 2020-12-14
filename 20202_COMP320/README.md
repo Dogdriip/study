@@ -54,3 +54,7 @@
   - [DICTIONARY](https://www.algospot.com/judge/problem/read/DICTIONARY)
   - [SORTGAME](https://www.algospot.com/judge/problem/read/SORTGAME)
   - [WORDCHAIN](https://www.algospot.com/judge/problem/read/WORDCHAIN)
+
+## Midterm Exam
+
+## Final Exam
