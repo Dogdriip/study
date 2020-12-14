@@ -2,6 +2,8 @@
 | ---------- | ----------------- | :-----: |
 | COMP414    | Computer Networks |    3    |
 
+# Computer Networks
+
 ## Ch1_Quiz1
 
 ## Ch1_Quiz2
