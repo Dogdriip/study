@@ -1,0 +1,18 @@
+16
+A B 12
+A C 3
+A D 20
+B E 6
+B G 5
+C E 4
+C F 4
+D F 5
+D I 10
+E G 3
+E H 3
+F H 5
+F I 3
+G Z 13
+H Z 10
+I Z 12
+
