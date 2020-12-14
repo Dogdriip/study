@@ -13,4 +13,4 @@
 3. 미로 만들기
    - [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665)
 
-## Final exam
+## Final Exam
