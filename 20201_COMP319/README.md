@@ -2,6 +2,8 @@
 | ---------- | ------------ | :-----: |
 | COMP319    | Algorithms 1 |    3    |
 
+# Algorithms 1
+
 ## Assignment
 
 1. Chained Matrix Multiplication
