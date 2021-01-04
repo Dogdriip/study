@@ -60,22 +60,22 @@
 
 ### 2020-1
 
-| Class code | Course name               | Credits |        Ref         |
-| ---------- | ------------------------- | :-----: | :----------------: |
-| CLTR032    | Japanese Language I       |    3    | [#](20201_CLTR032) |
-| COMP312    | Operating Systems         |    3    | [#](20201_COMP312) |
-| COMP319    | Algorithms 1              |    3    | [#](20201_COMP319) |
-| COMP414    | Computer Networks         |    3    | [#](20201_COMP414) |
-| EECS312    | Network Programming       |    3    | [#](20201_EECS312) |
-| ITEC401    | Capstone Design Project 1 |    4    |                    |
+| Class code | Course name               | Credits |                        Ref                         |
+| ---------- | ------------------------- | :-----: | :------------------------------------------------: |
+| CLTR032    | Japanese Language I       |    3    |                 [#](20201_CLTR032)                 |
+| COMP312    | Operating Systems         |    3    |                 [#](20201_COMP312)                 |
+| COMP319    | Algorithms 1              |    3    |                 [#](20201_COMP319)                 |
+| COMP414    | Computer Networks         |    3    |                 [#](20201_COMP414)                 |
+| EECS312    | Network Programming       |    3    |                 [#](20201_EECS312)                 |
+| ITEC401    | Capstone Design Project 1 |    4    | [#](https://github.com/koreatlwls/CPL-20201-Team3) |
 
 ### 2020-2
 
-| Class code | Course name               | Credits |        Ref         |
-| ---------- | ------------------------- | :-----: | :----------------: |
-| COMP320    | Algorithms 2              |    3    | [#](20202_COMP320) |
-| COMP432    | Topics in Software        |    2    |                    |
-| ITEC402    | Capstone Design Project 2 |    4    |                    |
-| ITEC422    | Health IT Software        |    3    |                    |
-| MTED231    | Linear Algebra            |    3    | [#](20202_MTED231) |
-| STAT452    | Numerical Analysis        |    3    | [#](20202_STAT452) |
+| Class code | Course name               | Credits |                             Ref                              |
+| ---------- | ------------------------- | :-----: | :----------------------------------------------------------: |
+| COMP320    | Algorithms 2              |    3    |                      [#](20202_COMP320)                      |
+| COMP432    | Topics in Software        |    2    |                                                              |
+| ITEC402    | Capstone Design Project 2 |    4    | [#](https://github.com/YeongshinYoon/2020.02-KNU-CDP2-Team3) |
+| ITEC422    | Health IT Software        |    3    |                                                              |
+| MTED231    | Linear Algebra            |    3    |                      [#](20202_MTED231)                      |
+| STAT452    | Numerical Analysis        |    3    |                      [#](20202_STAT452)                      |
